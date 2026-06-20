@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnknownSmpjdjd.aternos.me",
-    "port": 43259,
+    "ip": "PumeistyMC.aternos.me",
+    "port": 35514,
     "version": "",
     "try-creative": false
   },
